@@ -30,5 +30,5 @@ Les étudiants doivent produire :
 1. une matrice de permissions ;
 2. une architecture logique ;
 3. une liste de logs nécessaires ;
-4. une liste d’actions interdites ;
+4. une liste d’actions autorisées et une liste d’actions interdites ;
 5. une politique de validation humaine.
